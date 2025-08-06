@@ -1,5 +1,7 @@
 # Calcolo IRPEF Storico
 
+* [Calcolo Irpef Storico](./calcolo-irpef-storico.html)
+
 Pagina web responsive per il calcolo dell'IRPEF in base al reddito imponibile e alla data di riferimento, con l’applicazione degli scaglioni IRPEF storici dal 1974 a oggi.
 
 ---
